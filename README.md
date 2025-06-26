@@ -2,7 +2,7 @@
 
 Hello Coders!!👩‍⚖️
 
-I am Deeksha agarwal, an aspiring Web developer🤖. Here is the project on front-end Web Development...
+I am Ayushi Singh, an aspiring Web developer🤖. Here is the project on front-end Web Development...
 
 ## Authors
 
